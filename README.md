@@ -24,3 +24,4 @@ Para a demanda da equipe de desenvoldores, foi utilizado a Base original e criad
 
 Criado todos os arquivo para as duas equipes trabalharem seguindo o padrão da base de dados de origem.
 
+[Projeto no Colab] (https://colab.research.google.com/drive/10--CP7l2JntDwdGkY3oqm2NOvjL78-k9?usp=sharing)
